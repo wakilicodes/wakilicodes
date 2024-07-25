@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @wakilicodes
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning python
-- 📫 How to reach me +25470707005486
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Lets have fun
+Lets have fun
   
 
 <!---
